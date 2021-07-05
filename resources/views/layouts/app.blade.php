@@ -95,6 +95,7 @@
             @yield('content')
         </main>
     </div>
+@include('layouts.facebook_messager')
 </body>
 
 </html>
